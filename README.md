@@ -19,3 +19,9 @@ Larger BAR Size makes it more sus but has better performance, this is a shadow d
 Compile with VIVADO 2024.2
 
 For CapDMA 75T/EnigmaX1
+
+
+
+
+
+This is a Vanilla ufrisk pcileech-fpga edited for redhat virtio adapter, no fancy configspace as no dumps exist, BE, EAC, FACEIT and Vanguard UD
