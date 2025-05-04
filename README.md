@@ -12,6 +12,10 @@ VirtIO6464: 64bit BAR0, 64KB Size
 VirtIO64256: 64bit BAR0, 256KB Size  (Currently used by Daniel, UD)
 
 
+
+Larger BAR Size makes it more sus but has better performance, this is a shadow device so we dont care about BAR size.
+
+
 Compile with VIVADO 2024.2
 
 For CapDMA 75T/EnigmaX1
